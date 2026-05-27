@@ -21,8 +21,6 @@ Using the publicly available **PhysioNet EEG Motor Movement/Imagery Dataset**, N
 | 👈 LEFT motor imagery | Move player left |
 | 👉 RIGHT motor imagery | Move player right |
 
-> Built as a Final Year B.Tech Project — Institute of Technology and Management, Gida, Gorakhpur, UP, India (2026)
-
 ---
 
 ## ✨ Key Features
