@@ -119,8 +119,6 @@ Pygame Game Control + Brain Monitor Display
 |---|---|
 | Suruchi Thakur | Final Year B.Tech, CSE |
 | Vaishnavi Srivastava | Final Year B.Tech, CSE |
-| Vikrant Sahani | Final Year B.Tech, CSE |
-| Shakeel Ahmad | Final Year B.Tech, CSE |
 
 **Institution:** Institute of Technology and Management, Gida, Gorakhpur, Uttar Pradesh, India
 **Batch:** B.Tech 2026
